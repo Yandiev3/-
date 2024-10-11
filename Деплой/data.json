@@ -1,0 +1,4 @@
+{
+    "keyword1": ["http://example.com/page1", "http://example.com/page2"],
+    "keyword2": ["http://example.com/page3", "http://example.com/page4"]
+}
